@@ -1,2 +1,8 @@
 # simple-interest-calculator
-I am developer in a company. I am asked to host the sample code of simple interest in git.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
